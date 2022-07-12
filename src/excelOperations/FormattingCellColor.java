@@ -1,5 +1,9 @@
 package excelOperations;
 
+/*
+ * Formatting cell color
+ */
+
 import java.io.FileOutputStream;
 import java.io.IOException;
 
